@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 chenbotest dev
 chenbo master
 123456
+456789
